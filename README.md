@@ -4,6 +4,8 @@
 
 *Yes it is*
 
+![Snap](https://github.com/davideriboli/TIOMS/assets/623043/81160130-2024-409e-8f87-70cc19a9f17b)
+
 TIOMS è una agenda perpetua, costruita in Obsidian.
 
 A dire la verità, non sono un grande utilizzatore di agende: sulle prime mi piacciono sia quelle di carta che quelle digitali, ma dopo un paio di giorni va sempre a finire che mi dimentico di usarle e continuo ad appuntare quel che mi serve sul primo foglietto che trovo. Questa versione è nata più come esercizio per imparare ad usare Obsidian che altro, però funziona bene e magari può far comodo a qualcuno.
