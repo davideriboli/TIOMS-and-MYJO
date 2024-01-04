@@ -1,0 +1,50 @@
+{
+  "folderPath": "./99-Tools/mood-data",
+  "emotionSections": [
+    {
+      "name": "",
+      "color": "#76de91",
+      "emotions": [
+        "benissimo",
+        "bene",
+        "male",
+        "malissimo"
+      ]
+    },
+    {
+      "name": "",
+      "color": "#f2d05e",
+      "emotions": [
+        "caviglie",
+        "debolezza",
+        "ginocchia",
+        "maldistomaco",
+        "malditesta",
+        "otite",
+        "salute OK"
+      ]
+    },
+    {
+      "name": "",
+      "color": "#f04a1d",
+      "emotions": [
+        "ansia",
+        "depressione",
+        "malinconia ",
+        "stress",
+        "tristezza",
+        "troppo su"
+      ]
+    }
+  ],
+  "moodRatingLabelDict": {
+    "1": "😨",
+    "2": "☹️",
+    "3": "😐",
+    "4": "🙂",
+    "5": "😊"
+  },
+  "template": "Ore {{TIME}}\n- {{ICON}}\n- {{EMOTIONS}}\n- {{NOTE}}",
+  "trackerModalTitle": "Come va?",
+  "useEmotions": true
+}

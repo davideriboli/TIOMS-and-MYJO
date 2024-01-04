@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "6b2cbea45e007834",
+    "type": "split",
+    "children": [
+      {
+        "id": "7645a5e3ae24e889",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4128eee95ac1a89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ec165a0d80b525",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcc3d6976cb1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9841c7fb9cd1413c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1affdd34b99ff30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pocket",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c4c614e6c337b3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94c4f6c5a10b725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43c0efa3b04ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a7539775f5fe302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "42adfbabefd96c7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcba741622e3e36d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f15971c83c1dee75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7c33db44031bd031",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d550da979f0a1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-day-planner:Timeline": false,
+      "homepage:Open homepage": false,
+      "mood-tracker:Open Mood Tracker": false,
+      "mood-tracker:Open Mood Tracking History": false
+    }
+  },
+  "active": "f4128eee95ac1a89",
+  "lastOpenFiles": [
+    "gio 04 01 2024.md",
+    "99-Tools/oblique/oblique-data.md",
+    "01-BlockNotes/ToDos.md",
+    "01-BlockNotes/Appunti.md",
+    "00-DiarioDiBordo/2024/01-Gennaio/Senza nome.md",
+    "00-DiarioDiBordo/Archivi/2023.zip",
+    "00-DiarioDiBordo/Archivi",
+    "00-DiarioDiBordo/Nuova cartella",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-24.md",
+    "00-DiarioDiBordo/2023.zip",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-25.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-27.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-29.md",
+    "00-DiarioDiBordo/2023/12-Dicembre/2023-12-21.md",
+    "99-Tools/template/newnote.md",
+    "99-Tools/oblique",
+    "00-DiarioDiBordo/2023/11-Novembre/Novembre.md",
+    "00-DiarioDiBordo/2023/11-Novembre",
+    "mer 03 01 2024.md",
+    "Senza nome.md",
+    "99-Tools/mood-data/mood-tracker-data.json",
+    "data/mood-tracker-data.json",
+    "data",
+    "Nuova cartella",
+    "venerdì 26 gennaio 2024.md",
+    "martedì 09 gennaio 2024.md",
+    "mercoledì 03 gennaio 2024.md",
+    "00-DiarioDiBordo/2024/01-Gennaio/03 gennaio 2024.md",
+    "000-DiarioDiBordo/2023/Senza nome.md",
+    "Untitled.md",
+    "999-Tools/Tmpl/Pocket.md",
+    "000-DiarioDiBordo/2023/11-Novembre/2023-11-23.md",
+    "888-ReadItLater/FraudGPT e WormGPT, nuove cyber minacce sfruttano l’AI generativa  che c’è da sapere.md",
+    "888-ReadItLater/ In Turchia per le donne quel che conta è liberarsi dalla paura e trasformarla in libertà .md"
+  ]
+}
