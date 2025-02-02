@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "Source Sans Pro",
+  "textFontFamily": "Georgia",
+  "monospaceFontFamily": "Source Code Pro",
+  "nativeMenus": false,
+  "translucency": false,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

@@ -1,0 +1,12 @@
+{
+  "pinned": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "insert-current-date",
+    "insert-current-time",
+    "insert-template",
+    "obsidian-sort-and-permute-lines:sort-list-alphabetically",
+    "random-structural-diary-plugin:create-questions-list",
+    "mood-tracker:open-mood-tracker"
+  ]
+}

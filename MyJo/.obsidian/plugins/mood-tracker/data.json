@@ -1,0 +1,70 @@
+{
+  "folderPath": "./99-Tools/mood-data",
+  "emotionGroups": [
+    {
+      "id": "04f9b887-51b4-49d7-bd6e-62386b437d66",
+      "name": "Salute",
+      "color": "#27a57f",
+      "emotions": [
+        "Tutto Ok!",
+        "Febbre",
+        "Debolezza",
+        "Caviglie",
+        "Ginocchia",
+        "Apparato Genito-Urinario",
+        "Diarrea",
+        "Stipsi",
+        "Gastrite",
+        "Polmonite",
+        "Bronchite",
+        "Tracheite",
+        "Tosse",
+        "Maldigola",
+        "Otite",
+        "Occhi",
+        "Malditesta"
+      ],
+      "sortOrder": 5
+    },
+    {
+      "id": "ddb91bab-ce03-41c6-9cc1-61eec7156ca5",
+      "name": "Umore",
+      "color": "#f04a1d",
+      "emotions": [
+        "Stabile",
+        "Buono",
+        "Ottimo",
+        "Eccessivo",
+        "Cattivo",
+        "Pessimo",
+        "Ansioso",
+        "Depresso",
+        "Malinconico",
+        "Stressato",
+        "Triste",
+        "Arrabbiato",
+        "Idee suicide",
+        "Ottimista",
+        "",
+        ""
+      ],
+      "sortOrder": 6
+    }
+  ],
+  "moodRatingLabelDict": {
+    "1": "↓↓↓",
+    "2": "↓",
+    "3": "‡",
+    "4": "↑",
+    "5": "↑↑↑"
+  },
+  "moodRatingLabelSize": 1,
+  "entryTemplate": "**Tendenza:** {{ICON}} <p> **Tracks:** {{EMOTIONS}} <p>**Note:** {{NOTE}}.",
+  "trackerModalTitle": "Come va?",
+  "useEmotions": true,
+  "journalPosition": "### Tracks",
+  "addToJournal": true,
+  "journalFilePath": "{{DATE:DD MM YYYY - dddd}}.md",
+  "chartColor": "#4c566a",
+  "template": "Ore {{TIME}}\n- {{ICON}}\n- {{EMOTIONS}}\n- {{NOTE}}"
+}

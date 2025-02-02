@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DR.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DR"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82ec165a0d80b525",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcc3d6976cb1adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9841c7fb9cd1413c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "a1affdd34b99ff30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "c4c614e6c337b3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b94c4f6c5a10b725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f43c0efa3b04ae9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-DiarioDiBordo/2025/01-Gennaio/30-01-2025/30 01 2025 - giovedì.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da 30 01 2025 - giovedì"
+            }
+          },
+          {
+            "id": "4a7539775f5fe302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "f15971c83c1dee75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "1d550da979f0a1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00-DiarioDiBordo/2025/01-Gennaio/30-01-2025/30 01 2025 - giovedì.md"
+              },
+              "icon": "lucide-info",
+              "title": "Proprietà file per 30 01 2025 - giovedì"
+            }
+          },
+          {
+            "id": "0e0fe3afe68ffe97",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "graph:Apri vista grafo": false,
+      "homepage:Open homepage": false,
+      "mood-tracker:Open Mood Tracker": false,
+      "mood-tracker:Open Mood Tracking History": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "visual-crossing-weather:Visual Crossing Weather": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/29 01 2025 - mercoledì.md",
+    "DR.md",
+    "00-DiarioDiBordo/2025/02-Febbraio/02-02-2025/02 02 2025 - domenica.md",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/31 01 2025 - venerdì.md",
+    "00-DiarioDiBordo/2025/01-Gennaio/30-01-2025/30 01 2025 - giovedì.md",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img/1000001028.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img/1000001027.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img/1000001026.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img/1000001025.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img/1000001024.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025/img",
+    "00-DiarioDiBordo/2025/01-Gennaio/29-01-2025",
+    "00-DiarioDiBordo/2025/02-Febbraio/02-02-2025/img/Schermata del 2025-02-02 15-22-45.png",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/img/1000001028.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/img/1000001027.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/img/1000001026.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/img/1000001025.jpg",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025/img",
+    "00-DiarioDiBordo/2025/01-Gennaio/31-01-2025",
+    "01-Analisi/001.md",
+    "99-Tools/template/modello-diario.md",
+    "99-Tools/template/modello-analisi.md",
+    "01-Analisi",
+    "99-Tools/media",
+    "01 02 2025 - sabato.md",
+    "00-DiarioDiBordo/2025/02-Febbraio/02-02-2025/img",
+    "00-DiarioDiBordo/2025/02-Febbraio/02-02-2025",
+    "30 01 2025 - giovedì.md",
+    "00-DiarioDiBordo/2025/01-Gennaio/30-01-2025/img",
+    "00-DiarioDiBordo/2025/01-Gennaio/30-01-2025/media",
+    "00-DiarioDiBordo/2025/01-Gennaio/01 01 2024.md",
+    "copytracks.md",
+    "99-Tools/oblique/oblique-data.md",
+    "99-Tools/appunti/ToDos.md",
+    "99-Tools/appunti/Appunti.md",
+    "sab 01 02 2025.md",
+    "gio 04 01 2024.md",
+    "00-DiarioDiBordo/2024/01-Gennaio/Senza nome.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-24.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-25.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-27.md",
+    "00-DiarioDiBordo/2023/11-Novembre/2023-11-29.md",
+    "00-DiarioDiBordo/2023/12-Dicembre/2023-12-21.md",
+    "00-DiarioDiBordo/2023/11-Novembre/Novembre.md",
+    "mer 03 01 2024.md"
+  ]
+}

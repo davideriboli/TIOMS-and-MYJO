@@ -1,0 +1,31 @@
+[
+  {
+    "id": "76a35acc-37e1-4550-aa14-0ca88815fb65",
+    "dateTime": "2025-01-30T17:10:00+01:00",
+    "moodRating": 2,
+    "emotions": [
+      "Febbre",
+      "Debolezza",
+      "Gastrite",
+      "Tracheite",
+      "Tosse",
+      "Maldigola",
+      "Stabile",
+      "Malinconico"
+    ],
+    "note": "Andare in ABA è stata la traversata dell'Himalaya. Incontrato Salamone (che invece sta una favola) che mi ha chiesto se mi sentivo. **Secondo te, uno che sta bene ha questa faccia e questi colori e respira col fischio?**"
+  },
+  {
+    "id": "1777362a-b5cb-4500-9815-7461a64c293b",
+    "dateTime": "2025-02-02T10:55:55+01:00",
+    "moodRating": 4,
+    "emotions": [
+      "Debolezza",
+      "Tracheite",
+      "Gastrite",
+      "Stabile",
+      "Buono"
+    ],
+    "note": "Ancora tosse e raucedine, ma nulla in confronto ai giorni scorsi. Sospesa qualsiasi terapia, a parte i mucolitici."
+  }
+]
